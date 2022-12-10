@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&fontAlignY=30&text=Welcome&desc=WebPublisher%Minji's%Github)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&fontAlignY=40&text=Welcome&desc=WebPublisher%Minji's%Github)
 
 ### Hi there 👋
 
