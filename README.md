@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Kwon Minji)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Kwon%Minji)
 
 ### Hi there 👋
 
