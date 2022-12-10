@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&fontAlignY=40&text=welcome&desc=WebPublisher%20Minji's%20Github)
 
-### Hi there 👋
+### Hi I'm minji 😄
+### 
+
+<img src="https://img.shields.io/badge/1572B6?style=for-the-badge&logo=css&logoColor=black">
 
 <!--
 **clickkm24/clickkm24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
